@@ -1,0 +1,3 @@
+Default Admin:
+Email: admin@library.com
+Password: admin123
